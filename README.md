@@ -1,0 +1,1 @@
+![Example](gif/mygif.gif)
