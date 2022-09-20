@@ -43,4 +43,8 @@
         libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
         vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
     </string>
+    <string name="availabe">Connectivity Available</string>
+    <string name="unavailabe">Connectivity Unavailable</string>
+    <string name="losing">Connectivity is Losing</string>
+    <string name="lost">Connectivity is Lost</string>
 </resources>
